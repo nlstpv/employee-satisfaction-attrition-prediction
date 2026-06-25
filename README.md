@@ -1,4 +1,4 @@
-# 👥 Employee Satisfaction & Attrition Analysis
+# Employee Satisfaction & Attrition Analysis
 
 ## Project Overview
 
